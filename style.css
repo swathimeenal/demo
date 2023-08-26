@@ -98,7 +98,7 @@
   
   /* Hero Section */
   
-  .hero-section {
+  .heros-section {
     display: flex;
     height: 100vh;
     width: 100%;
@@ -109,7 +109,7 @@
     color: #fff;
   }
   
-  .hero-section .left h1 {
+  .heros-section .left h1 {
     font-family: "Raleway", sans-serif;
     font-weight: 900;
     font-size: 50px;
@@ -117,7 +117,7 @@
     margin-bottom: 0;
   }
   
-  .hero-section .left p {
+  .heros-section .left p {
     font-weight: normal;
     font-size: 16px;
     line-height: 200%;
@@ -125,15 +125,15 @@
     width: 457px;
   }
   
-  .hero-section .left {
+  .heros-section .left {
     flex: 1;
   }
   
-  .hero-section .right {
+  .heros-section .right {
     align-self: flex-end;
   }
   
-  .hero-section .right img {
+  .heros-section .right img {
     height: 520px;
     vertical-align: middle;
   }
