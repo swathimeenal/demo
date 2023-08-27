@@ -44,7 +44,7 @@
   }
   
   .btn.enrol-icon::before {
-    content: url("images/enrol-icon.svg");
+    content: url("images/enrols-icon.svg");
     position: absolute;
     top: 50%;
     left: 32px;
